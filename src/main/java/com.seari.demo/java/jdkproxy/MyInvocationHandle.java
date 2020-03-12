@@ -1,4 +1,4 @@
-package com.seari.demo.java.proxy;
+package com.seari.demo.java.jdkproxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

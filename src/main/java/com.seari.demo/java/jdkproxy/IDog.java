@@ -1,4 +1,4 @@
-package com.seari.demo.java.proxy;
+package com.seari.demo.java.jdkproxy;
 
 /**
  * 目标类接口
